@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Dev-PeterWachira/bot-batlr.github.io/bot-batlr/static/css/main.f6776e1b.css",
-    "main.js": "/Dev-PeterWachira/bot-batlr.github.io/bot-batlr/static/js/main.40bd4b90.js",
-    "index.html": "/Dev-PeterWachira/bot-batlr.github.io/bot-batlr/index.html",
-    "main.f6776e1b.css.map": "/Dev-PeterWachira/bot-batlr.github.io/bot-batlr/static/css/main.f6776e1b.css.map",
-    "main.40bd4b90.js.map": "/Dev-PeterWachira/bot-batlr.github.io/bot-batlr/static/js/main.40bd4b90.js.map"
+    "main.css": "/bot-batlr/static/css/main.f6776e1b.css",
+    "main.js": "/bot-batlr/static/js/main.f0a9ca77.js",
+    "index.html": "/bot-batlr/index.html",
+    "main.f6776e1b.css.map": "/bot-batlr/static/css/main.f6776e1b.css.map",
+    "main.f0a9ca77.js.map": "/bot-batlr/static/js/main.f0a9ca77.js.map"
   },
   "entrypoints": [
     "static/css/main.f6776e1b.css",
-    "static/js/main.40bd4b90.js"
+    "static/js/main.f0a9ca77.js"
   ]
 }
